@@ -1,9 +1,6 @@
 # 🚀 Task Flow
 
-![Task Flow](public/task-flow-preview.png)
-
-## 🧠 Sobre o projeto
-...
+![Task Flow](https://i.imgur.com/SEU-LINK.png)
 
 ## 🧠 Sobre o projeto
 
