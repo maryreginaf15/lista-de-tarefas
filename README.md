@@ -1,8 +1,9 @@
 # 🚀 Task Flow
 
-<p align="center">
-  <img src="public/task-flow-preview.png" alt="Preview do sistema Task Flow" /> 
-</p>
+![Task Flow](public/task-flow-preview.png)
+
+## 🧠 Sobre o projeto
+...
 
 ## 🧠 Sobre o projeto
 
