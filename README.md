@@ -1,7 +1,7 @@
 # 🚀 Task Flow
 
-[![Task Flow](https://i.imgur.com/SEU-LINK.png)
-](https://raw.githubusercontent.com/maryreginaf15/lista-de-tarefas/main/Fluxuograma-%20TaskFlow.png)
+
+(https://raw.githubusercontent.com/maryreginaf15/lista-de-tarefas/main/Fluxuograma-%20TaskFlow.png)
 ## 🧠 Sobre o projeto
 
 O **Task Flow** é uma aplicação web de **gestão de tarefas**, desenvolvida com foco em **produtividade**, **UX/UI** e **persistência de dados**.
